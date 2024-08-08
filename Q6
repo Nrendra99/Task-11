@@ -1,0 +1,9 @@
+Task_11> db.Items.findOne({ id: "10" })
+{
+  _id: ObjectId('66b4b8e17e4f1e3c033e5f16'),
+  id: '10',
+  product_name: 'Generic Wooden Pizza',
+  product_price: 84,
+  product_material: 'Frozen',
+  product_color: 'indigo'
+}
